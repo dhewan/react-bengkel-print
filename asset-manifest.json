@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/react-bengkel-print/static/css/main.077ac594.css",
-    "main.js": "/react-bengkel-print/static/js/main.a8cc4602.js",
+    "main.js": "/react-bengkel-print/static/js/main.bace7c0a.js",
     "static/js/787.e3e02c9d.chunk.js": "/react-bengkel-print/static/js/787.e3e02c9d.chunk.js",
     "static/media/BANNER.png": "/react-bengkel-print/static/media/BANNER.11c1ff1ec5b11b59fd2b.png",
     "static/media/print.png": "/react-bengkel-print/static/media/print.68acdbe2c2d11b14de9d.png",
     "index.html": "/react-bengkel-print/index.html",
     "main.077ac594.css.map": "/react-bengkel-print/static/css/main.077ac594.css.map",
-    "main.a8cc4602.js.map": "/react-bengkel-print/static/js/main.a8cc4602.js.map",
+    "main.bace7c0a.js.map": "/react-bengkel-print/static/js/main.bace7c0a.js.map",
     "787.e3e02c9d.chunk.js.map": "/react-bengkel-print/static/js/787.e3e02c9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.077ac594.css",
-    "static/js/main.a8cc4602.js"
+    "static/js/main.bace7c0a.js"
   ]
 }
