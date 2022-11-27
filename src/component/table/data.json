@@ -1,0 +1,37 @@
+{
+    "data" :[{
+        "nama":"Copping station L1BCD",
+        "tanggal":"20/04/2022",
+        "teknisi":"BP Surabaya",
+        "jumlah" : 8,
+        "status" : "Proses"
+    },
+    {
+        "nama":"Copping station L1BCD",
+        "tanggal":"21/04/2022",
+        "teknisi":"BP Surabaya",
+        "jumlah" : 4,
+        "status" : "Proses"
+    },{
+        "nama":"Baut L M4X25",
+        "tanggal":"22/04/2022",
+        "teknisi":"BP Surabaya",
+        "jumlah" : 7,
+        "status" : "Proses"
+    },{
+        "nama":"Baut L M4X25",
+        "tanggal":"23/04/2022",
+        "teknisi":"BP Surabaya",
+        "jumlah" : 5,
+        "status" : "Proses"
+    },{
+        "nama":"Baut L M4X25",
+        "tanggal":"24/04/2022",
+        "teknisi":"BP Surabaya",
+        "jumlah" : 3,
+        "status" : "Proses"
+    }
+
+]
+}
+

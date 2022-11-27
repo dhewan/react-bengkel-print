@@ -1,0 +1,94 @@
+.containerPd{
+    padding: 10px 90px;
+}
+.nav-item a{
+    margin: 0px 10px;
+ }
+.section2{
+    text-align: -webkit-center;
+    height: 66vh;
+}
+.banner{
+    background-image: url("../../icon/LOGIN MENU/DESKTOP/BANNER.png");
+    height: 52vh;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    display: flex;
+}
+
+.banner p {
+    font-size: x-large;
+    max-width: 52%;
+    align-self: center;
+}
+
+.boxForm{
+    background-color: white;
+    box-shadow: 0px 0px 5px black;
+    width: 75vw;
+    height: auto;
+    display: flex;
+    padding: 10px;
+    border-radius: 21px;
+    z-index: 10;
+    position: relative;
+    bottom: 90px;
+    justify-content:space-around;
+}
+
+.boxForm button,input,select{
+    border-radius: 20px;
+    font-weight: 500;
+    height: 5vh;
+}
+.boxForm input,select{
+text-align: center;
+}
+.boxForm button{
+    margin-top: 8.5%;
+}
+.boxForm input,select  {
+    border: solid rgb(202, 202, 202);
+    background-color: rgb(235, 235, 235);
+}
+
+.formL{
+    width: 35vw;
+}
+
+.formR{
+    width: 35vw;
+}
+
+.section3{
+    padding: 0px 164px;   
+    text-align: right;
+    text-align: -webkit-right;
+}
+
+.section3 p{
+    margin: 0;
+}
+
+.section4 {
+    padding: 0px 164px;
+    background-image: url("../../icon/LOGIN MENU/DESKTOP/BACKGROUND.png");
+    display: flex;
+    justify-content: space-between;
+}
+
+.s4r p{
+    max-width: 33vw;
+    font-weight: 400;
+    margin-top: 5vh;
+    font-size: large;
+}
+
+.s4r img{
+    margin-right: 64px;
+}
+
+.printer{
+    margin-right: 3vw;
+}
